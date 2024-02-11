@@ -2,7 +2,7 @@ cask "ligalex-mono" do
   version :latest
   sha256 :no_check
 
-  url "https://github.com/tdarshana/homebrew-blex-mono-liga-powerline/raw/ligalex-mono-powerline.zip"
+  url "https://github.com/tdarshana/homebrew-blex-mono-liga-powerline/releases/download/rel-v0.1/ligalex-mono-powerline.zip"
   name "Ligalex Mono Font Family"
   desc "A collection of Blex Mono fonts patched with extra ligatures and powerline symbols."
   homepage "https://github.com/tdarshana/homebrew-blex-mono-liga-powerline"
