@@ -19,4 +19,12 @@ brew tap tdarshana/blex-mono-liga-powerline
 brew install --cask ligalex-mono
 ```
 
+### Uninstall Font via Homebrew 
+
+Execute the following in your terminal to uninstall the font from your system.
+```bash
+brew uninstall --cask ligalex-mono
+```
+---
+
 Thanks !
