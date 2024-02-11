@@ -33,8 +33,8 @@ These fonts are modifications based on IBM Plex, originally developed by [IBM](h
 
 ---
 
-My Editor - [Kitty](https://github.com/kovidgoyal/kitty)
-Vim (NVim) Theme - [Nord for NeoVim](https://github.com/kovidgoyal/kitty)
+- My Editor - [Kitty](https://github.com/kovidgoyal/kitty)
+- Vim (NVim) Theme - [Nord for NeoVim](https://github.com/kovidgoyal/kitty)
 
 ---
 
