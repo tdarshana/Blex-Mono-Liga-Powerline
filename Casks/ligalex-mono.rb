@@ -3,7 +3,7 @@ cask "ligalex-mono" do
   sha256 :no_check
 
   url "ligalex-mono",
-  name "ligalex-mono font family"
+  name "Ligalex Mono Font Family"
   desc "A collection of Blex Mono fonts patched with extra ligatures and powerline symbols."
   homepage "https://github.com/tdarshana/homebrew-blex-mono-liga-powerline"
 
