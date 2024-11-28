@@ -27,6 +27,14 @@ brew uninstall --cask ligalex-mono
 ```
 ---
 
+### Set as language in VSCode
+
+In order to use the font in VSCode, set "Font Family" to Ligalex Mono for Powerline and "Font Ligatures" to `true`
+
+![Bildschirmfoto_20241118_150634](https://github.com/user-attachments/assets/f7a60371-bdd0-45b2-a9ef-1fdca4b35ba2)
+
+Now restart VSCode!
+
 ## Credits and License
 
 These fonts are modifications based on IBM Plex, originally developed by [IBM](https://github.com/IBM/plex). IBM Plex is licensed under the [SIL Open Font License, Version 1.1](https://opensource.org/licenses/OFL-1.1). Ligalex Mono inherits the license of the original fonts and is distributed under the same SIL Open Font License, Version 1.1. For more details on the license and the permissions, conditions, and limitations it entails, please refer to the [OFL-1.1 license text](https://github.com/IBM/plex/blob/master/LICENSE.txt).
